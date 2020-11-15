@@ -7,3 +7,5 @@ Learning Energy based model (EBM):
 | [A Kernelized Stein Discrepancy for Goodness-of-fit Tests and Model Evaluation](https://arxiv.org/abs/1602.03253) |Kernelized Stein Discrepancy (KSD) as a computable measure of discrepancy between a sample of an unnormalized distribution|
 |[Exponential Family Estimation via Adversarial Dynamics Embedding](https://arxiv.org/abs/1904.12083)|"We consider the primal-dual view of the MLE for the kinectics augmented model, which naturally introduces an adversarial dual sampler."|
 |[Kernel Mean Embedding of Distributions: A Review and Beyond](https://arxiv.org/abs/1605.09522)|A review of kernel mean embedding and conditional kernel mean embedding for distribution|
+|[Kernelized Complete Conditional Stein Discrepancy](https://arxiv.org/abs/1904.04478)|Conditional kernelized Stein discrepancy using joint kernel|
+|[Kernel dimension reduction in regression](https://arxiv.org/abs/0908.1854)|Kernel dimension reduction|
