@@ -9,3 +9,4 @@ Learning Energy based model (EBM):
 |[Kernel Mean Embedding of Distributions: A Review and Beyond](https://arxiv.org/abs/1605.09522)|A review of kernel mean embedding and conditional kernel mean embedding for distribution|
 |[Kernelized Complete Conditional Stein Discrepancy](https://arxiv.org/abs/1904.04478)|Conditional kernelized Stein discrepancy using joint kernel|
 |[Kernel dimension reduction in regression](https://arxiv.org/abs/0908.1854)|Kernel dimension reduction|
+|[Learning the Stein Discrepancy for Training and Evaluating Energy-Based Models without Sampling](https://arxiv.org/abs/2002.05616)|Learning Stein discrepancy optimal evaluation function using neural network|
