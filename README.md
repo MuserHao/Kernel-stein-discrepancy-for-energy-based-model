@@ -9,3 +9,4 @@ Learning Energy based model (EBM):
 |[Kernelized Complete Conditional Stein Discrepancy](https://arxiv.org/abs/1904.04478)|Conditional kernelized Stein discrepancy using joint kernel|
 |[Kernel dimension reduction in regression](https://arxiv.org/abs/0908.1854)|Kernel dimension reduction|
 |[Learning the Stein Discrepancy for Training and Evaluating Energy-Based Models without Sampling](https://arxiv.org/abs/2002.05616)|Learning Stein discrepancy optimal evaluation function using neural network|
+|[Minimum Stein Discrepancy Estimators](https://arxiv.org/abs/1906.08283)|Provide a unifying perspective of these techniques as minimum Stein discrepancy estimators, and use this lens to design new diffusion kernel Stein discrepancy (DKSD) and diffusion score matching (DSM) estimators with complementary strengths.|
