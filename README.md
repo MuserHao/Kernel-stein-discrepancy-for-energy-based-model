@@ -10,3 +10,4 @@ Learning Energy based model (EBM):
 |[Kernel dimension reduction in regression](https://arxiv.org/abs/0908.1854)|Kernel dimension reduction|
 |[Learning the Stein Discrepancy for Training and Evaluating Energy-Based Models without Sampling](https://arxiv.org/abs/2002.05616)|Learning Stein discrepancy optimal evaluation function using neural network|
 |[Minimum Stein Discrepancy Estimators](https://arxiv.org/abs/1906.08283)|Provide a unifying perspective of these techniques as minimum Stein discrepancy estimators, and use this lens to design new diffusion kernel Stein discrepancy (DKSD) and diffusion score matching (DSM) estimators with complementary strengths.|
+|[Derivative reproducing properties for kernel methods in learning theory](https://core.ac.uk/download/pdf/82506111.pdf)|Deriavtives of functions in RKHS to hold reproducing properties|
