@@ -24,3 +24,23 @@ Nonparametric Conditional Density Estimation
 |[Nonparametric Density Estimation for High-Dimensional Data - Algorithms and Applications](https://arxiv.org/pdf/1904.00176.pdf)|A review paper on nonparametric density estimation for high-dimensional data|
 |[Conditional Density Estimation with Neural Networks: Best Practices and Benchmarks](https://arxiv.org/abs/1903.00954)|The paper develops best practices for conditional density estimation for finance applications with neural networks, grounded on mathematical insights and empirical evaluations. |
 |[Nonparametric Conditional Density Estimation in a High-Dimensional Regression Setting](https://arxiv.org/abs/1604.00540)|Proposed a new nonparametric estimator of conditional density that adapts to sparse (low-dimensional) structure in x. |
+
+# Conditional_VAE
+## Related papers:
+
+| Paper | Description |
+| --- | --- |
+| [Learning Structured Output Representation using Deep Conditional Generative Models](https://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional-generative-models) | Conditional VAE |
+| [Deep Generative Models with Learnable Knowledge Constraints](https://arxiv.org/pdf/1806.09764.pdf) | Learn generative models under constraints |
+| [Semi-Supervised Learning with Deep Generative Models](https://arxiv.org/abs/1406.5298) | VAE as semi-supervised learning |
+| [Projection Pursuit Regression](https://www.tandfonline.com/doi/abs/10.1080/01621459.1981.10477729) | Projection pursuit regression|
+| [Variational Autoencoder with Arbitrary Conditioning](https://arxiv.org/abs/1806.02382) | Variational autoencoder that can be conditioned on an arbitrary subset of observed features and then sample the remaining features in "one shot". |
+| [Infinite Variational Autoencoder for Semi-Supervised Learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Abbasnejad_Infinite_Variational_Autoencoder_CVPR_2017_paper.pdf) | Train a generative model using unlabelled data, and then use this model combined with labelled data to train a discriminative model for classification. |
+|[Adversarial Autoencoders](https://arxiv.org/abs/1511.05644)|"adversarial autoencoder" (AAE), which is a probabilistic autoencoder that uses the recently proposed generative adversarial networks (GAN) to perform variational inference |
+|[Adversarial Symmetric Variational Autoencoder](http://people.ee.duke.edu/~lcarin/AS_VAE.pdf)|Adversarial Symmetric Variational Autoencoder, using a adversial training in VAE, which has a very interesting comment on the Maximum likelihood estimation|
+
+
+Semi-supervised learning with Deep Generative Models: [Pytorch implementation](https://github.com/wohlert/semi-supervised-pytorch)
+
+Generative models (AAE included): [Pytorch implementation](https://github.com/wiseodd/generative-models)
+
