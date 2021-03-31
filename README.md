@@ -16,7 +16,7 @@ Kernel Mean Embedding and Conditional Mean Embedding:
 | --- | --- |
 |[Kernel Mean Embedding of Distributions: A Review and Beyond](https://arxiv.org/abs/1605.09522)|A review of kernel mean embedding and conditional kernel mean embedding for distribution|
 |[Kernel dimension reduction in regression](https://arxiv.org/abs/0908.1854)|Kernel dimension reduction|
-|[Kernel Conditional Density Operators](https://arxiv.org/abs/1905.11255)|Conditional Density estimation using kernel method|
+|[Kernel Conditional Density Operators](https://arxiv.org/abs/1905.11255)|Conditional Density estimation with kernel mean embedding method|
 
 Nonparametric Conditional Density Estimation
 | Paper | Description |
