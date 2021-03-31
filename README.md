@@ -21,6 +21,6 @@ Kernel Mean Embedding and Conditional Mean Embedding:
 Nonparametric Conditional Density Estimation
 | Paper | Description |
 | --- | --- |
-|[Nonparametric Conditional Density Estimation in a High-Dimensional Regression Setting](https://arxiv.org/abs/1604.00540)|By directly expanding f(z|x) in the eigenfunctions of a kernel-based operator, we avoid tensor products in high dimensions as well as ratios of estimated densities. |
-|[Conditional Density Estimation with Neural Networks: Best Practices and Benchmarks](https://arxiv.org/abs/1903.00954)|The paper develops best practices for conditional density estimation for finance applications with neural networks, grounded on mathematical insights and empirical evaluations. |
 |[Nonparametric Density Estimation for High-Dimensional Data - Algorithms and Applications](https://arxiv.org/pdf/1904.00176.pdf)|A review paper on nonparametric density estimation for high-dimensional data|
+|[Conditional Density Estimation with Neural Networks: Best Practices and Benchmarks](https://arxiv.org/abs/1903.00954)|The paper develops best practices for conditional density estimation for finance applications with neural networks, grounded on mathematical insights and empirical evaluations. |
+|[Nonparametric Conditional Density Estimation in a High-Dimensional Regression Setting](https://arxiv.org/abs/1604.00540)|Proposed a new nonparametric estimator of conditional density that adapts to sparse (low-dimensional) structure in x. |
