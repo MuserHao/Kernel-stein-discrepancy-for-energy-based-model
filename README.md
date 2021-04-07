@@ -12,7 +12,8 @@ Kernelized Stein's Discrepancy:
 
 
 Learning Energy based model (EBM):
-
+| Paper | Description |
+| --- | --- |
 |[EBMs Trained with Maximum Likelihood are Generator Models Trained with a Self-adverserial Loss](https://arxiv.org/abs/2102.11757#:~:text=Maximum%20likelihood%20estimation%20is%20widely,algorithms%20such%20as%20Langevin%20dynamics.)|The authors show that reintroducing the noise in the dynamics does not lead to a qualitative change in the behavior, and merely reduces the quality of the generator. We thus show that EBM training is effectively a self-adversarial procedure rather than maximum likelihood estimation.|
 |[On Maximum Likelihood Training of Score-Based Generative Models](https://arxiv.org/abs/2101.09258)|In this note, we show that such an objective is equivalent to maximum likelihood for certain choices of mixture weighting.|
 
