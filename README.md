@@ -1,6 +1,6 @@
 # Kernel-stein-discrepancy-for-energy-based-model
 
-Learning Energy based model (EBM):
+Kernelized Stein's Discrepancy:
 
 | Paper | Description |
 | --- | --- |
@@ -9,6 +9,12 @@ Learning Energy based model (EBM):
 |[Learning the Stein Discrepancy for Training and Evaluating Energy-Based Models without Sampling](https://arxiv.org/abs/2002.05616)|Learning Stein discrepancy optimal evaluation function using neural network|
 |[Minimum Stein Discrepancy Estimators](https://arxiv.org/abs/1906.08283)|Provide a unifying perspective of these techniques as minimum Stein discrepancy estimators, and use this lens to design new diffusion kernel Stein discrepancy (DKSD) and diffusion score matching (DSM) estimators with complementary strengths.|
 |[Derivative reproducing properties for kernel methods in learning theory](https://core.ac.uk/download/pdf/82506111.pdf)|Deriavtives of functions in RKHS to hold reproducing properties|
+
+
+Learning Energy based model (EBM):
+
+|[EBMs Trained with Maximum Likelihood are Generator Models Trained with a Self-adverserial Loss](https://arxiv.org/abs/2102.11757#:~:text=Maximum%20likelihood%20estimation%20is%20widely,algorithms%20such%20as%20Langevin%20dynamics.)|The authors show that reintroducing the noise in the dynamics does not lead to a qualitative change in the behavior, and merely reduces the quality of the generator. We thus show that EBM training is effectively a self-adversarial procedure rather than maximum likelihood estimation.|
+|[On Maximum Likelihood Training of Score-Based Generative Models](https://arxiv.org/abs/2101.09258)|In this note, we show that such an objective is equivalent to maximum likelihood for certain choices of mixture weighting.|
 
 Kernel Mean Embedding and Conditional Mean Embedding:
 
