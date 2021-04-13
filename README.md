@@ -1,5 +1,15 @@
 # Kernel-stein-discrepancy-for-energy-based-model
 
+## Key papers on Score-based Generative Modeling:
+
+| Paper | Description |
+| --- | --- |
+| [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) |First score-based generative modeling: Denoising Score Matching + Annealed Langevin Dynamics|
+|[How to Train Your Energy-Based Models](https://arxiv.org/abs/2101.03288)|A nice tutorial/introduction/summary on training EBM by Yang Song, including maximum likelihood, score matching, contrastive divergence and adversarial training.|
+|[Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)|We present high quality image synthesis results using diffusion probabilistic models, a class of latent variable models inspired by considerations from nonequilibrium thermodynamics. Our best results are obtained by training on a weighted variational bound designed according to a novel connection between diffusion probabilistic models and denoising score matching with Langevin dynamics, and our models naturally admit a progressive lossy decompression scheme that can be interpreted as a generalization of autoregressive decoding. |
+|[Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)|A generative model framework based on SDE that encapsulates previous approaches in score-based generative modeling and diffusion probabilistic modeling, allowing for new sampling procedures and new modeling capabilities. In particular, we introduce a predictor-corrector framework to correct errors in the evolution of the discretized reverse-time SDE. |
+|[On Maximum Likelihood Training of Score-Based Generative Models](https://arxiv.org/abs/2101.09258)|In this note, we show that such an objective is equivalent to maximum likelihood for certain choices of mixture weighting.|
+
 Kernelized Stein's Discrepancy:
 
 | Paper | Description |
@@ -31,6 +41,8 @@ Nonparametric Conditional Density Estimation
 |[Nonparametric Density Estimation for High-Dimensional Data - Algorithms and Applications](https://arxiv.org/pdf/1904.00176.pdf)|A review paper on nonparametric density estimation for high-dimensional data|
 |[Conditional Density Estimation with Neural Networks: Best Practices and Benchmarks](https://arxiv.org/abs/1903.00954)|The paper develops best practices for conditional density estimation for finance applications with neural networks, grounded on mathematical insights and empirical evaluations. |
 |[Nonparametric Conditional Density Estimation in a High-Dimensional Regression Setting](https://arxiv.org/abs/1604.00540)|Proposed a new nonparametric estimator of conditional density that adapts to sparse (low-dimensional) structure in x. |
+
+
 
 # Conditional_VAE
 ## Related papers:
