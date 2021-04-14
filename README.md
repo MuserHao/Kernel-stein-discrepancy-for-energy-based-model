@@ -9,6 +9,7 @@
 |[Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)|A diffusion probabilistic models training on a weighted variational bound designed according to a novel connection between diffusion probabilistic models and denoising score matching with Langevin dynamics. |
 |[Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)|A generative model framework based on SDE that encapsulates previous approaches in score-based generative modeling and diffusion probabilistic modeling, allowing for new sampling procedures and new modeling capabilities. In particular, we introduce a predictor-corrector framework to correct errors in the evolution of the discretized reverse-time SDE. |
 |[On Maximum Likelihood Training of Score-Based Generative Models](https://arxiv.org/abs/2101.09258)|In this note, we show that such an objective is equivalent to maximum likelihood for certain choices of mixture weighting.|
+|[Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)|We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. The output of the network is computed using a black-box differential equation solver.|
 
 Kernelized Stein's Discrepancy:
 
