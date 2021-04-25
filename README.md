@@ -35,6 +35,8 @@ Kernel Mean Embedding and Conditional Mean Embedding:
 |[Kernel Mean Embedding of Distributions: A Review and Beyond](https://arxiv.org/abs/1605.09522)|A review of kernel mean embedding and conditional kernel mean embedding for distribution|
 |[Kernel dimension reduction in regression](https://arxiv.org/abs/0908.1854)|Kernel dimension reduction|
 |[Kernel Conditional Density Operators](https://arxiv.org/abs/1905.11255)|Conditional Density estimation with kernel mean embedding method|
+|[McGan: Mean and Covariance Feature Matching GAN](https://arxiv.org/abs/1702.08398)|Training Generative Adversarial Networks (GAN) based on matching statistics of distributions embedded in a finite dimensional feature space. Mean and covariance feature matching IPMs.|
+
 
 Nonparametric Conditional Density Estimation
 | Paper | Description |
