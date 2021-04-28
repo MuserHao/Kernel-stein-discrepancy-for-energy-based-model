@@ -10,6 +10,8 @@
 |[Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)|A generative model framework based on SDE that encapsulates previous approaches in score-based generative modeling and diffusion probabilistic modeling, allowing for new sampling procedures and new modeling capabilities. In particular, we introduce a predictor-corrector framework to correct errors in the evolution of the discretized reverse-time SDE. |
 |[On Maximum Likelihood Training of Score-Based Generative Models](https://arxiv.org/abs/2101.09258)|In this note, we show that such an objective is equivalent to maximum likelihood for certain choices of mixture weighting.|
 |[Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366)|We introduce a new family of deep neural network models. Instead of specifying a discrete sequence of hidden layers, we parameterize the derivative of the hidden state using a neural network. The output of the network is computed using a black-box differential equation solver.|
+|[Convolutional LSTM Network: A Machine Learning Approach for Precipitation Nowcasting](https://papers.nips.cc/paper/2015/file/07563a3fe3bbe7e3ba84431ad9d055af-Paper.pdf)| Proposed the convolutional LSTM (ConvLSTM) and use it to build an end-to-end trainable model for the precipitation nowcasting problem.|
+|[Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model](https://arxiv.org/abs/1706.03458)|Proposed trajectory GRU (TrajGRU) model that can actively learn the location-variant structure for recurrent connections. With the goal of making high-resolution forecasts.|
 
 Kernelized Stein's Discrepancy:
 
